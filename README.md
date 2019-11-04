@@ -13,7 +13,7 @@ Está página web es una tienda online de juegos de muebles de dormitorio de la 
 II. PÚBLICO OBJETIVO:
 LuzHogar Web está dirigido a personas interesadas en adquirir muebles de dormitorio y para el hogar en Lima y distintas ciudades del país.
 III. PRINCIPALES FUNCIONALIDADES:
-3.1. PÁGINA PRINCIPAL:
+3.1 PÁGINA PRINCIPAL:
 - Presentación de la empresa.
 - Información básica de la empresa.
 3.2. GALERÍA DE MUEBLES DISPONIBLES
