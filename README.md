@@ -49,7 +49,7 @@ III. PRINCIPALES FUNCIONALIDADES:
 - Actuaizar la galeria de muebles con su descripcion
 - Asociar al cliente
 - Mantener comunicacion con el cliente en caso de pedido especial o cuando lo solicite
-- Brindar numero de whatsapp
+- Atender al numero de whatsapp
 
 
 
