@@ -10,7 +10,8 @@
 
 I. PRPUESTA DE VALOR:
 
-Está página web es una tienda online de juegos de muebles de dormitorio de la empresa LuzHogar. La empresa actualmente no cuenta con una página web propia, por lo que esta propuesta permitirá incrementar sus ventas al llegar más fácilemente a más clientes y hacerse más conocida en el mercado.
+Está página web es una tienda online de muebles de la empresa LuzHogar. La empresa actualmente no cuenta con una página web propia, por lo que esta propuesta permitirá incrementar sus ventas y hacerse más conocida en el mercado.
+Mediante nuestra web ofrecemos una galeria virtual de muebles de dormitorio y pedidos personalizados, los cuales se podran cotizar a tiempo real, sin necesidad de ir a la tienda fisica o mamenter comunicacion directa con un asistente de ventas.
 
 II. PÚBLICO OBJETIVO:
 
@@ -26,25 +27,29 @@ III. PRINCIPALES FUNCIONALIDADES:
 3.2. GALERÍA DE MUEBLES DISPONIBLES:
 
 - Se muestra la descripción de los muebles en stock.
-- Listado de compras. Se visualiza como un camión. 
-- Precio cotizado del producto. Una vez que compras se agrega al camión.
-- Una vez se agrega al camión sale un calendario para que el cliente elija cunado desea que le entreguen el producto.
+- Listado de compras. Se visualiza una camioncito de compras. 
+- Precio cotizado del producto. Una vez que compras se agrega al camioncito.
+- Una vez se agrega al camión sale un calendario para que el cliente elija la fecha y hora de entrega del pedido.
 
 3.3. PEDIDOS ESPECIALES:
 
 - Se solicita pedidos al gusto del cliente.
-- Se puede adjuntar un gráfico del mueble que el cliente desea.
+- Se puede adjuntar una imagen/bosquejo del mueble que el cliente desea.
 - En otro caso, también se puede hacer una descripción del producto que desea.
 
 3.4. PERFIL DEL USUARIO:
 
+- Iniciar Sesion
 - Información del usuario: Nombre, Dirección, Referencia, Teléfono, DNI
 - Lista de sus pedidos y el estado de cada uno.
--Iniciar sesión.
+
 
 3.5. ADMINISTRADOR DE LA PÁGINA:
 
-- Llenar los datos del mueble y asociar al cliente.
+- Actuaizar la galeria de muebles con su descripcion
+- Asociar al cliente
+- Mantener comunicacion con el cliente en caso de pedido especial o cuando lo solicite
+- Brindar numero de whatsapp
 
 
 
